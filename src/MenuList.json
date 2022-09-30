@@ -1,0 +1,724 @@
+{
+  "extras": {
+    "listofcat": [
+      "Main",
+      "Side",
+      "Starters",
+      "World Marche",
+      "Egg Station",
+      "Salads"
+    ]
+  },
+  "menu": [
+    {
+      "allergens": [
+        "egg",
+        "dairy"
+      ],
+      "backend_extras": "{\"dimension\": \"\", \"temperature\": \"\", \"can_rotate\": false}",
+      "calories": 360,
+      "dietarynote": "",
+      "display_price": "100.00",
+      "enable_as_mealdeal": false,
+      "extras": {
+        "food_type": "",
+        "item_count": -1,
+        "item_count_displaytext": ""
+      },
+      "fooddescription": " ",
+      "foodid": "TCS:compressionlogic:19",
+      "foodinfo": "",
+      "foodname": "Breakfast Combo",
+      "healthflag": "",
+      "imageurl": "https://storage.googleapis.com/smartqprduk_pub/im/fi/compassgrouptest/5_item_meat_breakfast.png",
+      "is_available": true,
+      "listofcategories": [
+        "Salads"
+      ],
+      "offer_text": "",
+      "preferred_items": [],
+      "price": 100,
+      "restaurantName": "compression logic",
+      "servingtime": "00:00-23:58",
+      "sessionlist": [
+        "LUNCH",
+        "BREAKFAST",
+        "DINNER",
+        "SNACKS"
+      ],
+      "shortdescription": " ",
+      "submenu": [],
+      "taxes": {
+        "cesstax": 0,
+        "cgsttax": 2.5,
+        "sgsttax": 2.5,
+        "ugsttax": 0
+      },
+      "vegflag": "V",
+      "view_only_item": false
+    },
+    {
+      "allergens": [
+        "Gluten"
+      ],
+      "backend_extras": "{\"dimension\": \"\", \"temperature\": \"\", \"can_rotate\": false}",
+      "calories": 0,
+      "dietarynote": "",
+      "display_price": "150",
+      "enable_as_mealdeal": false,
+      "extras": {
+        "food_type": "",
+        "item_count": -1,
+        "item_count_displaytext": ""
+      },
+      "fooddescription": "Crispy panko coated chicken with katsu sauce, sesame mayonnaise, baby gem lettuce and asian pickles in burger bun",
+      "foodid": "TCS:compressionlogic:21",
+      "foodinfo": "",
+      "foodname": "Chicken Katsu Burger",
+      "healthflag": "",
+      "imageurl": "https://storage.googleapis.com/smartqprduk_pub/im/fi/northumbria/chicken_katsu_burger.png",
+      "is_available": true,
+      "listofcategories": [
+        "Main"
+      ],
+      "offer_text": "",
+      "preferred_items": [],
+      "price": 150,
+      "restaurantName": "compression logic",
+      "servingtime": "00:00-23:59",
+      "sessionlist": [
+        "LUNCH",
+        "BREAKFAST",
+        "DINNER",
+        "SNACKS"
+      ],
+      "shortdescription": "Crispy panko coated chicken with katsu sauce, sesame mayonnaise, baby gem lettuce and asian pickles in burger bun",
+      "submenu": [],
+      "taxes": {
+        "cesstax": 0,
+        "cgsttax": 0,
+        "sgsttax": 0,
+        "ugsttax": 0
+      },
+      "vegflag": "N",
+      "view_only_item": false
+    },
+    {
+      "allergens": [
+        "Gluten"
+      ],
+      "backend_extras": "{\"dimension\": \"\", \"temperature\": \"\", \"can_rotate\": false}",
+      "calories": 442,
+      "dietarynote": "",
+      "display_price": "80.00",
+      "enable_as_mealdeal": false,
+      "extras": {
+        "food_type": "",
+        "item_count": -1,
+        "item_count_displaytext": ""
+      },
+      "fooddescription": "Served with garlic bread",
+      "foodid": "TCS:compressionlogic:5",
+      "foodinfo": "",
+      "foodname": "Chicken Pesto Pasta",
+      "healthflag": "",
+      "imageurl": "https://storage.googleapis.com/smartqprduk_pub/im/fi/compassgrouptest/Spinach_Pinenut__pesto_pasta.png",
+      "is_available": true,
+      "listofcategories": [
+        "World Marche"
+      ],
+      "offer_text": "",
+      "preferred_items": [],
+      "price": 80,
+      "restaurantName": "compression logic",
+      "servingtime": "0:0-23:59",
+      "sessionlist": [
+        "LUNCH",
+        "BREAKFAST",
+        "DINNER",
+        "SNACKS"
+      ],
+      "shortdescription": "Served with garlic bread",
+      "submenu": [],
+      "taxes": {
+        "cesstax": 0,
+        "cgsttax": 2.5,
+        "sgsttax": 2.5,
+        "ugsttax": 0
+      },
+      "vegflag": "P",
+      "view_only_item": false
+    },
+    {
+      "allergens": [],
+      "backend_extras": "{\"dimension\": \"\", \"temperature\": \"\", \"can_rotate\": false}",
+      "calories": 0,
+      "dietarynote": "",
+      "display_price": "15.00",
+      "enable_as_mealdeal": false,
+      "extras": {
+        "food_type": "",
+        "item_count": -1,
+        "item_count_displaytext": ""
+      },
+      "fooddescription": "Cucumber pickled in chilli and rice wine vinegar",
+      "foodid": "TCS:compressionlogic:22",
+      "foodinfo": "",
+      "foodname": "Donburi Pickle cucumber",
+      "healthflag": "0",
+      "imageurl": "https://storage.googleapis.com/smartqprduk_pub/im/fi/northumbria/donburi_pickle.png",
+      "is_available": true,
+      "listofcategories": [
+        "Side"
+      ],
+      "offer_text": "",
+      "preferred_items": [],
+      "price": 15,
+      "restaurantName": "compression logic",
+      "servingtime": "00:00-23:59",
+      "sessionlist": [
+        "LUNCH",
+        "BREAKFAST",
+        "DINNER",
+        "SNACKS"
+      ],
+      "shortdescription": "Cucumber pickled in chilli and rice wine vinegar",
+      "submenu": [],
+      "taxes": {
+        "cesstax": 0,
+        "cgsttax": 0,
+        "sgsttax": 0,
+        "ugsttax": 0
+      },
+      "vegflag": "V",
+      "view_only_item": false
+    },
+    {
+      "allergens": [
+        "Soybeans"
+      ],
+      "backend_extras": "{\"can_rotate\": false}",
+      "calories": 0,
+      "dietarynote": "",
+      "display_price": "45.00",
+      "enable_as_mealdeal": false,
+      "extras": {
+        "food_type": "",
+        "item_count": -1,
+        "item_count_displaytext": ""
+      },
+      "fooddescription": "Steamed edamame beans dressed in soy sauce",
+      "foodid": "TCS:compressionlogic:23",
+      "foodinfo": "",
+      "foodname": "Edamame Beans",
+      "healthflag": "",
+      "imageurl": "https://storage.googleapis.com/smartqprduk_pub/im/fi/northumbria/edemame_beans_dressed_in_soy_sauce.png",
+      "is_available": true,
+      "listofcategories": [
+        "Starters"
+      ],
+      "offer_text": "",
+      "preferred_items": [],
+      "price": 45,
+      "restaurantName": "compression logic",
+      "servingtime": "00:00-23:59",
+      "sessionlist": [
+        "LUNCH"
+      ],
+      "shortdescription": "Steamed edamame beans dressed in soy sauce",
+      "submenu": [],
+      "taxes": {
+        "cesstax": 0,
+        "cgsttax": 0,
+        "sgsttax": 0,
+        "ugsttax": 0
+      },
+      "vegflag": "V",
+      "view_only_item": false
+    },
+    {
+      "allergens": [],
+      "backend_extras": "{\"can_rotate\": false}",
+      "calories": 782,
+      "dietarynote": "",
+      "display_price": "100.00",
+      "enable_as_mealdeal": false,
+      "extras": {
+        "food_type": "",
+        "item_count": -1,
+        "item_count_displaytext": ""
+      },
+      "fooddescription": "nothing",
+      "foodid": "TCS:compressionlogic:8",
+      "foodinfo": "",
+      "foodname": "Grilled Chicken",
+      "healthflag": "",
+      "imageurl": "https://storage.googleapis.com/smartqdemo/images/food_images/TCS_compressionlogic/grilled chicken.jpeg",
+      "is_available": true,
+      "listofcategories": [
+        "World Marche"
+      ],
+      "offer_text": "",
+      "preferred_items": [
+        {
+          "foodid": "{\"foodid\": \"TCS:lunch:8\", \"restaurantid\": \"TCS:lunch\", \"articlenumber\": \"87890099\"}"
+        },
+        {
+          "foodid": "{\"foodid\": \"TCS:adigas:92\", \"restaurantid\": \"TCS:adigas\", \"articlenumber\": \"008\"}"
+        },
+        {
+          "foodid": "{\"foodid\": \"TCS:lunch:22\", \"restaurantid\": \"TCS:lunch\", \"articlenumber\": \"10\"}"
+        }
+      ],
+      "price": 100,
+      "restaurantName": "compression logic",
+      "servingtime": "0:0-23:59",
+      "sessionlist": [
+        "LUNCH",
+        "BREAKFAST",
+        "DINNER",
+        "SNACKS"
+      ],
+      "shortdescription": "nothing",
+      "submenu": [],
+      "taxes": {
+        "cesstax": 0,
+        "cgsttax": 2.5,
+        "sgsttax": 2.5,
+        "ugsttax": 0
+      },
+      "vegflag": "N",
+      "view_only_item": false
+    },
+    {
+      "allergens": [],
+      "backend_extras": "{\"can_rotate\": false}",
+      "calories": 705,
+      "dietarynote": "",
+      "display_price": "110.00",
+      "enable_as_mealdeal": false,
+      "extras": {
+        "food_type": "",
+        "item_count": -1,
+        "item_count_displaytext": ""
+      },
+      "fooddescription": "nothing",
+      "foodid": "TCS:compressionlogic:9",
+      "foodinfo": "",
+      "foodname": "Grilled Fish",
+      "healthflag": "",
+      "imageurl": "https://storage.googleapis.com/smartqprduk_pub/im/fi/northumbria/crispy_chicken_katsu_bowl.png",
+      "is_available": true,
+      "listofcategories": [
+        "World Marche"
+      ],
+      "offer_text": "",
+      "preferred_items": [],
+      "price": 110,
+      "restaurantName": "compression logic",
+      "servingtime": "0:0-23:59",
+      "sessionlist": [
+        "LUNCH",
+        "BREAKFAST",
+        "DINNER",
+        "SNACKS"
+      ],
+      "shortdescription": "nothing",
+      "submenu": [],
+      "taxes": {
+        "cesstax": 0,
+        "cgsttax": 2.5,
+        "sgsttax": 2.5,
+        "ugsttax": 0
+      },
+      "vegflag": "N",
+      "view_only_item": false
+    },
+    {
+      "allergens": [],
+      "backend_extras": "{\"can_rotate\": false}",
+      "calories": 705,
+      "dietarynote": "",
+      "display_price": "1.00",
+      "enable_as_mealdeal": false,
+      "extras": {
+        "food_type": "",
+        
+        "item_count": -1,
+        "item_count_displaytext": ""
+      },
+      "fooddescription": "nothing",
+      "foodid": "TCS:compressionlogic:101",
+      "foodinfo": "",
+      "foodname": "Item 1",
+      "healthflag": "",
+      "imageurl": "https://storage.googleapis.com/smartqprduk_pub/im/fi/northumbria/crispy_chicken_katsu_bowl.png",
+      "is_available": true,
+      "listofcategories": [
+        "Egg Station"
+      ],
+      "offer_text": "",
+      "preferred_items": [
+        {
+          "foodid": "{\"foodid\": \"TCS:compressionlogic:102\", \"restaurantid\": \"TCS:compressionlogic\", \"articlenumber\": \"123649\"}"
+        },
+        {
+          "foodid": "{\"foodid\": \"TCS:compressionlogic:103\", \"restaurantid\": \"TCS:compressionlogic\", \"articlenumber\": \"123650\"}"
+        },
+        {
+          "foodid": "{\"foodid\": \"TCS:compressionlogic:104\", \"restaurantid\": \"TCS:compressionlogic\", \"articlenumber\": \"123651\"}"
+        },
+        {
+          "foodid": "{\"foodid\": \"TCS:compressionlogic:105\", \"restaurantid\": \"TCS:compressionlogic\", \"articlenumber\": \"123652\"}"
+        },
+        {
+          "foodid": "{\"foodid\": \"TCS:compressionlogic:106\", \"restaurantid\": \"TCS:compressionlogic\", \"articlenumber\": \"123653\"}"
+        },
+        {
+          "foodid": "{\"foodid\": \"TCS:compressionlogic:107\", \"restaurantid\": \"TCS:compressionlogic\", \"articlenumber\": \"123654\"}"
+        },
+        {
+          "foodid": "{\"foodid\": \"TCS:compressionlogic:108\", \"restaurantid\": \"TCS:compressionlogic\", \"articlenumber\": \"123655\"}"
+        },
+        {
+          "foodid": "{\"foodid\": \"TCS:compressionlogic:109\", \"restaurantid\": \"TCS:compressionlogic\", \"articlenumber\": \"123656\"}"
+        },
+        {
+          "foodid": "{\"foodid\": \"TCS:compressionlogic:110\", \"restaurantid\": \"TCS:compressionlogic\", \"articlenumber\": \"123658\"}"
+        }
+      ],
+      "price": 1,
+      "restaurantName": "compression logic",
+      "servingtime": "0:0-23:59",
+      "sessionlist": [
+        "LUNCH",
+        "BREAKFAST",
+        "DINNER",
+        "SNACKS"
+      ],
+      "shortdescription": "nothing",
+      "submenu": [],
+      "taxes": {
+        "cesstax": 0,
+        "cgsttax": 2.5,
+        "sgsttax": 2.5,
+        "ugsttax": 0
+      },
+      "vegflag": "N",
+      "view_only_item": false
+    },
+    {
+      "allergens": [],
+      "backend_extras": "{\"can_rotate\": false}",
+      "calories": 705,
+      "dietarynote": "",
+      "display_price": "10.00",
+      "enable_as_mealdeal": false,
+      "extras": {
+        "food_type": "",
+        "item_count": -1,
+        "item_count_displaytext": ""
+      },
+      "fooddescription": "nothing",
+      "foodid": "TCS:compressionlogic:110",
+      "foodinfo": "",
+      "foodname": "Item 10",
+      "healthflag": "",
+      "imageurl": "https://storage.googleapis.com/smartqprduk_pub/im/fi/northumbria/crispy_chicken_katsu_bowl.png",
+      "is_available": true,
+      "listofcategories": [
+        "Egg Station"
+      ],
+      "offer_text": "",
+      "preferred_items": [],
+      "price": 10,
+      "restaurantName": "compression logic",
+      "servingtime": "0:0-23:68",
+      "sessionlist": [
+        "LUNCH",
+        "BREAKFAST",
+        "DINNER",
+        "SNACKS"
+      ],
+      "shortdescription": "nothing",
+      "submenu": [],
+      "taxes": {
+        "cesstax": 0,
+        "cgsttax": 2.5,
+        "sgsttax": 2.5,
+        "ugsttax": 0
+      },
+      "vegflag": "N",
+      "view_only_item": false
+    },
+    {
+      "allergens": [],
+      "backend_extras": "{\"can_rotate\": false}",
+      "calories": 705,
+      "dietarynote": "",
+      "display_price": "100.00",
+      "enable_as_mealdeal": false,
+      "extras": {
+        "food_type": "",
+        "item_count": -1,
+        "item_count_displaytext": ""
+      },
+      "fooddescription": "nothing",
+      "foodid": "TCS:compressionlogic:200",
+      "foodinfo": "",
+      "foodname": "Item 100",
+      "healthflag": "",
+      "imageurl": "https://storage.googleapis.com/smartqprduk_pub/im/fi/northumbria/crispy_chicken_katsu_bowl.png",
+      "is_available": true,
+      "listofcategories": [
+        "Egg Station"
+      ],
+      "offer_text": "",
+      "preferred_items": [],
+      "price": 100,
+      "restaurantName": "compression logic",
+      "servingtime": "0:0-23:158",
+      "sessionlist": [
+        "LUNCH",
+        "BREAKFAST",
+        "DINNER",
+        "SNACKS"
+      ],
+      "shortdescription": "nothing",
+      "submenu": [],
+      "taxes": {
+        "cesstax": 0,
+        "cgsttax": 2.5,
+        "sgsttax": 2.5,
+        "ugsttax": 0
+      },
+      "vegflag": "N",
+      "view_only_item": false
+    },
+    {
+      "allergens": [],
+      "backend_extras": "{\"can_rotate\": false}",
+      "calories": 705,
+      "dietarynote": "",
+      "display_price": "101.00",
+      "enable_as_mealdeal": false,
+      "extras": {
+        "food_type": "",
+        "item_count": -1,
+        "item_count_displaytext": ""
+      },
+      "fooddescription": "nothing",
+      "foodid": "TCS:compressionlogic:201",
+      "foodinfo": "",
+      "foodname": "Item 101",
+      "healthflag": "",
+      "imageurl": "https://storage.googleapis.com/smartqprduk_pub/im/fi/northumbria/crispy_chicken_katsu_bowl.png",
+      "is_available": true,
+      "listofcategories": [
+        "Egg Station"
+      ],
+      "offer_text": "",
+      "preferred_items": [],
+      "price": 101,
+      "restaurantName": "compression logic",
+      "servingtime": "0:0-23:159",
+      "sessionlist": [
+        "LUNCH",
+        "BREAKFAST",
+        "DINNER",
+        "SNACKS"
+      ],
+      "shortdescription": "nothing",
+      "submenu": [],
+      "taxes": {
+        "cesstax": 0,
+        "cgsttax": 2.5,
+        "sgsttax": 2.5,
+        "ugsttax": 0
+      },
+      "vegflag": "N",
+      "view_only_item": false
+    },
+    {
+      "allergens": [],
+      "backend_extras": "{\"can_rotate\": false}",
+      "calories": 705,
+      "dietarynote": "",
+      "display_price": "102.00",
+      "enable_as_mealdeal": false,
+      "extras": {
+        "food_type": "",
+        "item_count": -1,
+        "item_count_displaytext": ""
+      },
+      "fooddescription": "nothing",
+      "foodid": "TCS:compressionlogic:202",
+      "foodinfo": "",
+      "foodname": "Item 102",
+      "healthflag": "",
+      "imageurl": "https://storage.googleapis.com/smartqprduk_pub/im/fi/northumbria/crispy_chicken_katsu_bowl.png",
+      "is_available": true,
+      "listofcategories": [
+        "Egg Station"
+      ],
+      "offer_text": "",
+      "preferred_items": [],
+      "price": 102,
+      "restaurantName": "compression logic",
+      "servingtime": "0:0-23:160",
+      "sessionlist": [
+        "LUNCH",
+        "BREAKFAST",
+        "DINNER",
+        "SNACKS"
+      ],
+      "shortdescription": "nothing",
+      "submenu": [],
+      "taxes": {
+        "cesstax": 0,
+        "cgsttax": 2.5,
+        "sgsttax": 2.5,
+        "ugsttax": 0
+      },
+      "vegflag": "N",
+      "view_only_item": false
+    },
+    {
+      "allergens": [],
+      "backend_extras": "{\"can_rotate\": false}",
+      "calories": 705,
+      "dietarynote": "",
+      "display_price": "103.00",
+      "enable_as_mealdeal": false,
+      "extras": {
+        "food_type": "",
+        "item_count": -1,
+        "item_count_displaytext": ""
+      },
+      "fooddescription": "nothing",
+      "foodid": "TCS:compressionlogic:203",
+      "foodinfo": "",
+      "foodname": "Item 103",
+      "healthflag": "",
+      "imageurl": "https://storage.googleapis.com/smartqprduk_pub/im/fi/northumbria/crispy_chicken_katsu_bowl.png",
+      "is_available": true,
+      "listofcategories": [
+        "Egg Station"
+      ],
+      "offer_text": "",
+      "preferred_items": [],
+      "price": 103,
+      "restaurantName": "compression logic",
+      "servingtime": "0:0-23:161",
+      "sessionlist": [
+        "LUNCH",
+        "BREAKFAST",
+        "DINNER",
+        "SNACKS"
+      ],
+      "shortdescription": "nothing",
+      "submenu": [],
+      "taxes": {
+        "cesstax": 0,
+        "cgsttax": 2.5,
+        "sgsttax": 2.5,
+        "ugsttax": 0
+      },
+      "vegflag": "N",
+      "view_only_item": false
+    },
+    {
+      "allergens": [],
+      "backend_extras": "{\"can_rotate\": false}",
+      "calories": 705,
+      "dietarynote": "",
+      "display_price": "104.00",
+      "enable_as_mealdeal": false,
+      "extras": {
+        "food_type": "",
+        "item_count": -1,
+        "item_count_displaytext": ""
+      },
+      "fooddescription": "nothing",
+      "foodid": "TCS:compressionlogic:204",
+      "foodinfo": "",
+      "foodname": "Item 104",
+      "healthflag": "",
+      "imageurl": "https://storage.googleapis.com/smartqprduk_pub/im/fi/northumbria/crispy_chicken_katsu_bowl.png",
+      "is_available": true,
+      "listofcategories": [
+        "Egg Station"
+      ],
+      "offer_text": "",
+      "preferred_items": [],
+      "price": 104,
+      "restaurantName": "compression logic",
+      "servingtime": "0:0-23:162",
+      "sessionlist": [
+        "LUNCH",
+        "BREAKFAST",
+        "DINNER",
+        "SNACKS"
+      ],
+      "shortdescription": "nothing",
+      "submenu": [],
+      "taxes": {
+        "cesstax": 0,
+        "cgsttax": 2.5,
+        "sgsttax": 2.5,
+        "ugsttax": 0
+      },
+      "vegflag": "N",
+      "view_only_item": false
+    },
+    {
+      "allergens": [],
+      "backend_extras": "{\"can_rotate\": false}",
+      "calories": 705,
+      "dietarynote": "",
+      "display_price": "105.00",
+      "enable_as_mealdeal": false,
+      "extras": {
+        "food_type": "",
+        "item_count": -1,
+        "item_count_displaytext": ""
+      },
+      "fooddescription": "nothing",
+      "foodid": "TCS:compressionlogic:205",
+      "foodinfo": "",
+      "foodname": "Item 105",
+      "healthflag": "",
+      "imageurl": "https://storage.googleapis.com/smartqprduk_pub/im/fi/northumbria/crispy_chicken_katsu_bowl.png",
+      "is_available": true,
+      "listofcategories": [
+        "Egg Station"
+      ],
+      "offer_text": "",
+      "preferred_items": [],
+      "price": 105,
+      "restaurantName": "compression logic",
+      "servingtime": "0:0-23:163",
+      "sessionlist": [
+        "LUNCH",
+        "BREAKFAST",
+        "DINNER",
+        "SNACKS"
+      ],
+      "shortdescription": "nothing",
+      "submenu": [],
+      "taxes": {
+        "cesstax": 0,
+        "cgsttax": 2.5,
+        "sgsttax": 2.5,
+        "ugsttax": 0
+      },
+      "vegflag": "N",
+      "view_only_item": false
+    }
+  ],
+  "sessions": {
+    "BREAKFAST": "07:00-11:00",
+    "DINNER": "17:30-19:30",
+    "LUNCH": "11:30-14:00"
+  }
+}
